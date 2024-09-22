@@ -54,7 +54,7 @@ src/
 │   ├── PostItem.js     # Component that displays posts
 │   └── Modal.js        # Modal for detailed viewing
 └── styles/
-    ├── HeaderStyles.js  # Header styles
+    ├── HeaderStyles.js   # Header styles
     ├── ModalStyles.js    # Modal styles
     ├── PostFormStyles.js # Input styles
     └── PostItemStyles.js # Post styles
