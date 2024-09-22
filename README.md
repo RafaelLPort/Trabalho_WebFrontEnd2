@@ -35,7 +35,7 @@ Follow the steps below to set up the project on your machine:
 
 3. **Start the application**:
    ```bash
-   npm start
+   npm run start
    ```
 
 4. **Access the application**: Open your browser and go to [http://localhost:3000](http://localhost:3000).
